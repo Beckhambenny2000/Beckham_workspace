@@ -1,0 +1,24 @@
+<?xml version="1"?>
+
+<launch>
+
+  <!-- use robot pose ekf to provide odometry-->
+    <node pkg="robot_pose_ekf" name="robot_pose_ekf" type="robot_pose_ekf">
+        <param name="output_frame" value="odom" />
+        <param name="base_footprint_frame" value="base_link"/>
+        <remap from="imu_data" to="imu" />
+    </node>
+
+  <!--  ************** Navigation ***************  -->
+  <node pkg="move_base" type="move_base" respawn="false" name="move_base" output="screen">
+    <rosparam file="$(find limo_bringup)/param/4wd/costmap_common_params.yaml" command="load" ns="global_costmap" />
+    <rosparam file="$(find limo_bringup)/param/4wd/costmap_common_params.yaml" command="load" ns="local_costmap" />
+    <rosparam file="$(find limo_bringup)/param/4wd/local_costmap_params.yaml" command="load" />
+    <rosparam file="$(find limo_bringup)/param/4wd/global_costmap_params.yaml" command="load" />
+
+    <rosparam file="$(find limo_bringup)/param/4wd/move_base_params.yaml" command="load" />
+    <rosparam file="$(find limo_bringup)/param/4wd/base_local_planner_params.yaml" command="load" />
+
+</node>
+
+</launch>
