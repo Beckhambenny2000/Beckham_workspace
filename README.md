@@ -1,27 +1,43 @@
-Hi, I'm Beckham Benny Ross
-Welcome to my GitHub workspace!
+# 👋 Hi, I'm Beckham Benny Ross
 
-I'm an engineering student with a strong interest in robotics and systems engineering. My current focus is on autonomous navigation using the AgileX LIMO mobile robot and ROS 1 Melodic. I focus on solving integration challenges in robotics through a structured systems approach.
+Welcome to my GitHub workspace! I’m a robotics and systems engineering student with a focus on autonomous systems, ROS (Robot Operating System), and real-world applications of mobile robotics.
 
-Current Project – LIMO Autonomous Navigation
-This project applies a systems engineering methodology to develop and test an autonomous navigation system for the AgileX LIMO robot. My team and I created a custom indoor arena based on the theme “Jewel Canopy Park” to serve as a structured test environment. The robot was configured with ROS 1 packages for mapping, localization, and path planning. The project emphasizes real-world testing and system-level integration.
+## 🔧 About Me
 
-Skills and Tools
+- 🎓 Engineering student with a focus on **robotics** and **systems engineering**
+- 🤖 Currently working on **autonomous navigation** using **AgileX LIMO** and **ROS 1 Melodic**
+- 🛠️ Interested in **robotics software development**, **sensor integration**, and **system-level thinking**
 
-Programming: Python, C++
+## 📌 Featured Project
 
-Robotics Framework: ROS 1 (Melodic)
+### 🔷 LIMO Autonomous Navigation
 
-Tools: RViz, Gazebo, Ubuntu, Git
+This project applies a **systems engineering approach** to develop an autonomous navigation system for the AgileX LIMO robot using **ROS 1 Melodic**. It includes:
 
-Key Areas: SLAM, path planning, sensor integration, systems approach
+- Custom-designed test arena based on the theme *"Jewel Canopy Park"*
+- ROS configuration for mapping, localization, and path planning
+- Hands-on integration and testing on the physical robot
 
-Currently Learning
+➡️ [View the project repo](https://github.com/your-username/limo-navigation)
 
-ROS Melodic
+## 💻 Technical Skills
 
-AI applications in robotics
+- **Languages**: C++, Python
+- **Tools**: ROS 1, Ubuntu, RViz, Gazebo, Git
+- **Concepts**: SLAM, path planning, sensor fusion, systems thinking
 
-Advanced system modeling and simulation
+## 🌱 Currently Learning
 
-Feel free to explore my repositories and projects. I'm always open to feedback, collaboration, or just connecting with others interested in robotics and systems engineering!
+- ROS and navigation stacks  
+- System modeling and simulation  
+
+## 📫 Connect with Me
+
+Feel free to reach out or follow my work:
+
+- 📧 beckhambenny2000@gmail.com
+- 🌐 https://beckhambenny2000.github.io/
+- 📄 https://www.linkedin.com/in/beckham-benny-ross-sit-robotics-system/
+
+---
+
