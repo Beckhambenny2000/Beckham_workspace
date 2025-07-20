@@ -18,7 +18,7 @@ This project applies a **systems engineering approach** to develop an autonomous
 - ROS configuration for mapping, localization, and path planning
 - Hands-on integration and testing on the physical robot
 
-➡️ [View the project repo](https://github.com/your-username/limo-navigation)
+➡️ [View the project repo](https://github.com/Beckhambenny2000/Beckham_workspace/tree/main/Systems-Engineering-Project-1-Group-6-main)
 
 ## 💻 Technical Skills
 
