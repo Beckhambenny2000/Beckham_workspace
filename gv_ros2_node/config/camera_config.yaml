@@ -1,0 +1,23 @@
+---
+
+### camera config
+# gvD100 strame status(0 (close), 1(ir), 2(depth), 3(color), 4(ir+depth), 5(color+depth))
+stream_status: 5 
+
+# publish pointcloud
+publish_pointcloud: true
+
+# align depth to color
+align_depth_to_color: false
+
+# gvD100 stream bandwidth(0, 512,	1020,	1536,	2040,	2556,	3060)
+band_width: 3060
+
+# max distance
+max_distance: 4.0
+
+# show image
+show_image: false
+
+show_data_size: false
+
