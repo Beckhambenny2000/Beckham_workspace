@@ -1,0 +1,38 @@
+[0.668s] Invoking command in '/home/beckh/ros2_ws_motor/src/motor_control': PYTHONPATH=/home/beckh/ros2_ws_motor/build/motor_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beckh/ros2_ws_motor/install/motor_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/motor_control build --build-base /home/beckh/ros2_ws_motor/build/motor_control/build install --record /home/beckh/ros2_ws_motor/build/motor_control/install.log --single-version-externally-managed install_data
+[0.873s] running egg_info
+[0.873s] creating ../../build/motor_control/motor_control.egg-info
+[0.873s] writing ../../build/motor_control/motor_control.egg-info/PKG-INFO
+[0.874s] writing dependency_links to ../../build/motor_control/motor_control.egg-info/dependency_links.txt
+[0.874s] writing entry points to ../../build/motor_control/motor_control.egg-info/entry_points.txt
+[0.874s] writing requirements to ../../build/motor_control/motor_control.egg-info/requires.txt
+[0.874s] writing top-level names to ../../build/motor_control/motor_control.egg-info/top_level.txt
+[0.875s] writing manifest file '../../build/motor_control/motor_control.egg-info/SOURCES.txt'
+[0.876s] reading manifest file '../../build/motor_control/motor_control.egg-info/SOURCES.txt'
+[0.876s] adding license file 'LICENSE'
+[0.876s] writing manifest file '../../build/motor_control/motor_control.egg-info/SOURCES.txt'
+[0.877s] running build
+[0.877s] running build_py
+[0.877s] creating /home/beckh/ros2_ws_motor/build/motor_control/build
+[0.877s] creating /home/beckh/ros2_ws_motor/build/motor_control/build/lib
+[0.877s] creating /home/beckh/ros2_ws_motor/build/motor_control/build/lib/motor_control
+[0.878s] copying motor_control/__init__.py -> /home/beckh/ros2_ws_motor/build/motor_control/build/lib/motor_control
+[0.878s] copying motor_control/motor_control.py -> /home/beckh/ros2_ws_motor/build/motor_control/build/lib/motor_control
+[0.878s] running install
+[0.878s] running install_lib
+[0.879s] creating /home/beckh/ros2_ws_motor/install/motor_control/lib/python3.10/site-packages/motor_control
+[0.879s] copying /home/beckh/ros2_ws_motor/build/motor_control/build/lib/motor_control/__init__.py -> /home/beckh/ros2_ws_motor/install/motor_control/lib/python3.10/site-packages/motor_control
+[0.880s] copying /home/beckh/ros2_ws_motor/build/motor_control/build/lib/motor_control/motor_control.py -> /home/beckh/ros2_ws_motor/install/motor_control/lib/python3.10/site-packages/motor_control
+[0.880s] byte-compiling /home/beckh/ros2_ws_motor/install/motor_control/lib/python3.10/site-packages/motor_control/__init__.py to __init__.cpython-310.pyc
+[0.880s] byte-compiling /home/beckh/ros2_ws_motor/install/motor_control/lib/python3.10/site-packages/motor_control/motor_control.py to motor_control.cpython-310.pyc
+[0.882s] running install_data
+[0.882s] creating /home/beckh/ros2_ws_motor/install/motor_control/share/ament_index
+[0.882s] creating /home/beckh/ros2_ws_motor/install/motor_control/share/ament_index/resource_index
+[0.882s] creating /home/beckh/ros2_ws_motor/install/motor_control/share/ament_index/resource_index/packages
+[0.882s] copying resource/motor_control -> /home/beckh/ros2_ws_motor/install/motor_control/share/ament_index/resource_index/packages
+[0.883s] copying package.xml -> /home/beckh/ros2_ws_motor/install/motor_control/share/motor_control
+[0.883s] running install_egg_info
+[0.884s] Copying ../../build/motor_control/motor_control.egg-info to /home/beckh/ros2_ws_motor/install/motor_control/lib/python3.10/site-packages/motor_control-0.0.0-py3.10.egg-info
+[0.885s] running install_scripts
+[0.905s] Installing motor_control script to /home/beckh/ros2_ws_motor/install/motor_control/lib/motor_control
+[0.905s] writing list of installed files to '/home/beckh/ros2_ws_motor/build/motor_control/install.log'
+[0.931s] Invoked command in '/home/beckh/ros2_ws_motor/src/motor_control' returned '0': PYTHONPATH=/home/beckh/ros2_ws_motor/build/motor_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beckh/ros2_ws_motor/install/motor_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/motor_control build --build-base /home/beckh/ros2_ws_motor/build/motor_control/build install --record /home/beckh/ros2_ws_motor/build/motor_control/install.log --single-version-externally-managed install_data
